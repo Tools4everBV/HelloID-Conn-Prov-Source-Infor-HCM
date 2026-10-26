@@ -1,4 +1,4 @@
-# HelloID-Conn-Prov-Target-Infor-HCM
+# HelloID-Conn-Prov-Source-Infor-HCM
 <p align="center">
   <img src="https://www.tools4ever.nl/connector-logos/infor-logo.png">
 </p>
